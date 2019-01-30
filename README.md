@@ -1,2 +1,2 @@
 # JS
-some useful functions
+some useful methods
